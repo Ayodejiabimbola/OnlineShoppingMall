@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\MyCSharpProjects\OnlineShoppingMall\obj\Debug\net7.0\OnlineShoppingMall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\MyCSharpProjects\OnlineShoppingMall\obj\Debug\net7.0\OnlineShoppingMall.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\MyCSharpProjects\OnlineShoppingMall\obj\Debug\net7.0\OnlineShoppingMall.AssemblyInfo.cs
+C:\Users\HP\Desktop\MyCSharpProjects\OnlineShoppingMall\obj\Debug\net7.0\OnlineShoppingMall.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\MyCSharpProjects\OnlineShoppingMall\bin\Debug\net7.0\OnlineShoppingMall.exe
+C:\Users\HP\Desktop\MyCSharpProjects\OnlineShoppingMall\bin\Debug\net7.0\OnlineShoppingMall.deps.json
+C:\Users\HP\Desktop\MyCSharpProjects\OnlineShoppingMall\bin\Debug\net7.0\OnlineShoppingMall.runtimeconfig.json
+C:\Users\HP\Desktop\MyCSharpProjects\OnlineShoppingMall\bin\Debug\net7.0\OnlineShoppingMall.dll
+C:\Users\HP\Desktop\MyCSharpProjects\OnlineShoppingMall\bin\Debug\net7.0\OnlineShoppingMall.pdb
+C:\Users\HP\Desktop\MyCSharpProjects\OnlineShoppingMall\obj\Debug\net7.0\OnlineShoppingMall.dll
+C:\Users\HP\Desktop\MyCSharpProjects\OnlineShoppingMall\obj\Debug\net7.0\refint\OnlineShoppingMall.dll
+C:\Users\HP\Desktop\MyCSharpProjects\OnlineShoppingMall\obj\Debug\net7.0\OnlineShoppingMall.pdb
+C:\Users\HP\Desktop\MyCSharpProjects\OnlineShoppingMall\obj\Debug\net7.0\OnlineShoppingMall.genruntimeconfig.cache
+C:\Users\HP\Desktop\MyCSharpProjects\OnlineShoppingMall\obj\Debug\net7.0\ref\OnlineShoppingMall.dll
