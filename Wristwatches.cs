@@ -5,8 +5,8 @@ using System.Threading.Tasks;
 
 namespace OnlineShoppingMall
 {
-    public class Wristwatches : BaseItem
+    public class WristWatches : BaseItem
     {
-        public string Type { get; set; }
+        public string? Type { get; set; }
     }
 }

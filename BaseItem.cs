@@ -7,7 +7,7 @@ namespace OnlineShoppingMall
 {
     public class BaseItem
     {
-        public string ItemName { get; set; }
+        public string? ItemName { get; set; }
         public double Price { get; set; }
     }
 }

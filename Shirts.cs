@@ -7,6 +7,6 @@ namespace OnlineShoppingMall
 {
     public class Shirts : BaseItem 
     {
-        public string Maker { get; set; }
+        public string? Maker { get; set; }
     }
 }

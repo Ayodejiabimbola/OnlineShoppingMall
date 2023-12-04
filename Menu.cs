@@ -5,8 +5,8 @@ using System.Threading.Tasks;
 
 namespace OnlineShoppingMall
 {
-    public class Sneakers : BaseItem
+    public class Menu
     {
-        public string? Size { get; set; }
+        
     }
 }
